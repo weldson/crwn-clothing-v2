@@ -92,10 +92,7 @@ export const SignUpForm = () => {
           name='confirmPassword'
         />
 
-        {/* <button type="submit">
-          Sign Up
-        </button> */}
-        <Button buttonType='google' type='submit'>
+        <Button type='submit'>
           Sign Up
         </Button>
       </form>
