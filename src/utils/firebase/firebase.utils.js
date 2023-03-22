@@ -18,12 +18,12 @@ import {
 } from 'firebase/firestore'
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDWOeSszfy9hL3VwSNkM37fk2cbqIOwL1c",
-  authDomain: "crwn-db-b3cf6.firebaseapp.com",
-  projectId: "crwn-db-b3cf6",
-  storageBucket: "crwn-db-b3cf6.appspot.com",
-  messagingSenderId: "240136618188",
-  appId: "1:240136618188:web:146e595e56e81cca6e8269"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 // Initialize Firebase
